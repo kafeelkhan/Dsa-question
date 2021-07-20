@@ -24,7 +24,7 @@ int main()
        }
        
     }	
-	cout<<"Number of Swap : "<<sum;
+	cout<<"Number of Swaping bracket : "<<sum;
     return 0;
    
 }
